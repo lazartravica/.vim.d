@@ -15,6 +15,7 @@ Plug 'https://github.com/vim-airline/vim-airline-themes'
 Plug 'https://github.com/scrooloose/syntastic'
 Plug 'https://github.com/Shougo/neocomplete.vim'
 Plug 'https://github.com/fatih/vim-go'
+Plug 'https://github.com/vimwiki/vimwiki'
 
 call plug#end()
 
