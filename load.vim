@@ -16,6 +16,8 @@ Plug 'https://github.com/scrooloose/syntastic'
 Plug 'https://github.com/Shougo/neocomplete.vim'
 Plug 'https://github.com/fatih/vim-go'
 Plug 'https://github.com/vimwiki/vimwiki'
+Plug 'https://github.com/hashivim/vim-terraform'
+Plug 'pearofducks/ansible-vim'
 
 call plug#end()
 
