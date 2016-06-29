@@ -26,6 +26,7 @@ call plug#end()
 source ~/.vim.d/keybindings/leader-comma.vim
 source ~/.vim.d/keybindings/fugitive.vim
 source ~/.vim.d/keybindings/resize.vim
+source ~/.vim.d/keybindings/paste.vim
 
 source ~/.vim.d/ui/neocomplete.vim
 source ~/.vim.d/ui/nerdtree.vim
