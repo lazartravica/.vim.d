@@ -17,6 +17,7 @@ Plug 'https://github.com/Shougo/neocomplete.vim'
 Plug 'https://github.com/fatih/vim-go'
 Plug 'https://github.com/vimwiki/vimwiki'
 Plug 'https://github.com/lambdatoast/elm.vim'
+Plug 'https://github.com/ekalinin/Dockerfile.vim'
 
 call plug#end()
 
