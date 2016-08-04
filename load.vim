@@ -18,6 +18,8 @@ Plug 'https://github.com/fatih/vim-go'
 Plug 'https://github.com/vimwiki/vimwiki'
 Plug 'https://github.com/lambdatoast/elm.vim'
 Plug 'https://github.com/ekalinin/Dockerfile.vim'
+Plug 'https://github.com/hashivim/vim-terraform'
+Plug 'pearofducks/ansible-vim'
 
 call plug#end()
 
@@ -26,6 +28,7 @@ call plug#end()
 source ~/.vim.d/keybindings/leader-comma.vim
 source ~/.vim.d/keybindings/fugitive.vim
 source ~/.vim.d/keybindings/resize.vim
+source ~/.vim.d/keybindings/paste.vim
 
 source ~/.vim.d/ui/neocomplete.vim
 source ~/.vim.d/ui/nerdtree.vim

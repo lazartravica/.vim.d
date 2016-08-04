@@ -1,8 +1,3 @@
-set guioptions -=T
-set guioptions -=m
-set guioptions -=r
-set guioptions -=L
-
 set guifont="Hack":h10:cANSI
 hi Normal ctermbg=none
 
