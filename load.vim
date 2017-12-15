@@ -35,3 +35,5 @@ source ~/.vim.d/ui/nerdtree.vim
 source ~/.vim.d/ui/ui.vim
 
 source ~/.vim.d/languages/golang.vim
+
+source ~/.vim.d/encryption/gpg.vim
